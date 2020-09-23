@@ -21,6 +21,6 @@ TIPS:
 
 部署时需要填写subfolderPath选项为kinto, port: 3001, Deploy Timeout建议设置为五分钟
 
-默认配置是https://github.com/mixool/v2ray/raw/master/kinto/config.json，建议自行复制修改内容后放到GIST，然后设置CONFIG变量为GIST的RAW地址
+默认配置是https://github.com/threexing/ksnsbbsb/raw/master/kinto/config.json，建议自行复制修改内容后放到GIST，然后设置CONFIG变量为GIST的RAW地址
 
 部署后直接访问External Access返回Bad Request即表示部署成功
