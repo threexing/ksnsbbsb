@@ -1,4 +1,4 @@
-@我自己  搞了个caddy v2ray tor ，默认用vless: https://github.com/mixool/v2ray
+@我自己  搞了个caddy v2ray tor ，默认用vless: https://github.com/threexing/ksnsbbsb
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/threexing/ksnsbbsb)  
   
