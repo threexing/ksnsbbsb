@@ -1,6 +1,6 @@
 @我自己  搞了个caddy v2ray tor ，默认用vless: https://github.com/mixool/v2ray
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mmpuq/v2ray-heroku-vless)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/threexing/ksnsbbsb)  
   
 > 提醒： 滥用可能导致账户就被BAN！！！  
 
@@ -16,7 +16,7 @@ TIPS:
   
 * 可以搭配clouflare cdn使用，[参考IBMYes项目的这里](https://github.com/CCChieh/IBMYes#cloudflare-%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E4%B8%AD%E8%BD%AC)，修改`url.hostname`为**app**分配到的`xxxxxxxxx.herokuapp.com`  
   
-* 部署到kintohub: https://github.com/mixool/v2ray/tree/master/kinto
+* 部署到kintohub: https://github.com/threexing/ksnsbbsb/tree/master/kinto
 部署到kintohub时，v2ray可以从网络地址读取文件配置，使用自定义的CONFIG更加灵活，支持tor网络，去掉了caddy
 
 部署时需要填写subfolderPath选项为kinto, port: 3001, Deploy Timeout建议设置为五分钟
